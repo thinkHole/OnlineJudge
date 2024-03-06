@@ -1,0 +1,1 @@
+main(a){printf("%d",a-543,scanf("%d",&a));}
